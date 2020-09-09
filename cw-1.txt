@@ -1,0 +1,21 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+    int Z = 10;
+    int X = 15;
+    
+    System.out.println(Z + X);
+        System.out.println(Z * X);
+            System.out.println(Z > X);
+            
+    
+    String first = "Khaled";
+    String second = "Bourisly";
+    
+    System.out.println(first + " " + second);
+
+
+    
+        
+     }
+}
